@@ -37,7 +37,7 @@
     "font-awesome": "^4.7.0",
     "jquery": "^2.2.4",
     "keyboardevent-key-polyfill": "^1.1.0",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.19",
     "ng-pick-datetime": "^6.0.16",
     "ng-recaptcha": "^3.0.0",
     "ng2-input-autocomplete": "^0.2.0",
