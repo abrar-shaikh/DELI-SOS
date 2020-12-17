@@ -31,7 +31,7 @@
     "angular-text-input-autocomplete": "^0.3.0",
     "classlist.js": "^1.1.20150312",
     "core-js": "^2.5.4",
-    "datatables.net": "^1.10.19",
+    "datatables.net": "^1.10.22",
     "datatables.net-dt": "^1.10.19",
     "enhanced-resolve": "^3.3.0",
     "font-awesome": "^4.7.0",
